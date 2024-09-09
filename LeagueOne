@@ -3,48 +3,48 @@
 <display-name lang="en">Barnsley</display-name>
 <icon src="https://archive.org/download/Barnsley_202309/Barnsley.jpg"/>
 </channel>
-<programme start="20240701000000 +0000" stop="20240907215959 +0000" channel="Barnsley">
-<title lang="en">Barnsley v Bristol Rovers</title>
-<desc lang="en">Next Fixture - Barnsley v Bristol Rovers - Saturday 7th September - 15:00 Kick Off GMT - EFL League One</desc>
+<programme start="20240701000000 +0000" stop="20240914215959 +0000" channel="Barnsley">
+<title lang="en">Stevenage v Barnsley</title>
+<desc lang="en">Next Fixture - Stevenage v Barnsley - Saturday 14th September - 15:00 Kick Off GMT - EFL League One</desc>
 </programme>
 <programme start="20240702000000 +0000" stop="20240917215959 +0000" channel="Barnsley">
-<title lang="en">EFL League One Match</title>
-<desc lang="en">EFL League One Match</desc>
+<title lang="en">Manchester United v Barnsley</title>
+<desc lang="en">Next Fixture - Manchester United v Barnsley - Tuesday 17th September - 20:00 Kick Off GMT - Carabao Cup</desc>
 </programme>
-<programme start="20240703000000 +0000" stop="20240919215959 +0000" channel="Barnsley">
-<title lang="en">EFL League One Match</title>
-<desc lang="en">EFL League One Match</desc>
+<programme start="20240703000000 +0000" stop="20240921215959 +0000" channel="Barnsley">
+<title lang="en">Burton Albion v Barnsley</title>
+<desc lang="en">Next Fixture - Burton Albion v Barnsley - Saturday 21st September - 15:00 Kick Off GMT - EFL League One</desc>
 </programme>
-<programme start="20240704000000 +0000" stop="20240922215959 +0000" channel="Barnsley">
-<title lang="en">EFL League One Match</title>
-<desc lang="en">EFL League One Match</desc>
+<programme start="20240704000000 +0000" stop="20240921215959 +0000" channel="Barnsley">
+<title lang="en">Barnsley v Stockport County</title>
+<desc lang="en">Next Fixture - Barnsley v Stockport County - Saturday 21st September - 19:45 Kick Off GMT - EFL League One</desc>
 </programme>
-<programme start="20240705000000 +0000" stop="20240928215959 +0000" channel="Barnsley">
-<title lang="en">EFL League One Match</title>
-<desc lang="en">EFL League One Match</desc>
+<programme start="20240705000000 +0000" stop="20241001215959 +0000" channel="Barnsley">
+<title lang="en">Barnsley v Wycombe Wanderers</title>
+<desc lang="en">Next Fixture - Barnsley v Wycombe Wanderers - Tuesday 1st October - 19:45 Kick Off GMT - EFL League One</desc>
 </programme>
-<programme start="20240707000000 +0000" stop="20241001215959 +0000" channel="Barnsley">
-<title lang="en">EFL League One Match</title>
-<desc lang="en">EFL League One Match</desc>
+<programme start="20240707000000 +0000" stop="20241005215959 +0000" channel="Barnsley">
+<title lang="en">Huddersfield Town v Barnsley</title>
+<desc lang="en">Next Fixture - Huddersfield Town v Barnsley - Saturday 5th October - 12:30 Kick Off GMT - EFL League One</desc>
 </programme>
-<programme start="20240708000000 +0000" stop="20241005215959 +0000" channel="Barnsley">
-<title lang="en">EFL League One Match</title>
-<desc lang="en">EFL League One Match</desc>
+<programme start="20240708000000 +0000" stop="20241008215959 +0000" channel="Barnsley">
+<title lang="en">Huddersfield Town v Barnsley</title>
+<desc lang="en">Next Fixture - Huddersfield Town v Barnsley - Tuesday 8th October - 19:45 Kick Off GMT - EFL Trophy</desc>
 </programme>
-<programme start="20240709000000 +0000" stop="20241019215959 +0000" channel="Barnsley">
-<title lang="en">EFL League One Match</title>
-<desc lang="en">EFL League One Match</desc>
+<programme start="20240709000000 +0000" stop="20241012215959 +0000" channel="Barnsley">
+<title lang="en">Barnsley v Reading</title>
+<desc lang="en">Next Fixture - Barnsley v Reading - Saturday 12th October - 15:00 Kick Off GMT - EFL League One</desc>
 </programme>
-<programme start="20240710000000 +0000" stop="20241022215959 +0000" channel="Barnsley">
-<title lang="en">EFL League One Match</title>
-<desc lang="en">EFL League One Match</desc>
+<programme start="20240710000000 +0000" stop="20241019215959 +0000" channel="Barnsley">
+<title lang="en">Blackpool v Barnsley</title>
+<desc lang="en">Next Fixture - Blackpool v Barnsley - Saturday 19th October - 15:00 Kick Off GMT - EFL League One</desc>
 </programme>
-<programme start="20240711000000 +0000" stop="20241027215959 +0000" channel="Barnsley">
-<title lang="en">EFL League One Match</title>
-<desc lang="en">EFL League One Match</desc>
+<programme start="20240711000000 +0000" stop="20241022215959 +0000" channel="Barnsley">
+<title lang="en">Barnsley v Charlton Athletic</title>
+<desc lang="en">Next Fixture - Barnsley v Charlton Athletic - Tuesday 22nd October - 19:45 Kick Off GMT - EFL League One</desc>
 </programme>
 <programme start="20240712000000 +0000" stop="20241102215959 +0000" channel="Barnsley">
-<title lang="en">EFL League One Match</title>
+<title lang="en">EFL League One Match 11</title>
 <desc lang="en">EFL League One Match</desc>
 </programme>
 <programme start="20240713000000 +0000" stop="20240929215959 +0000" channel="Barnsley">
