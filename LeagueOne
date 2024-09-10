@@ -1,4 +1,48 @@
 <tv generator-info-name="none" generator-info-url="none">
+<channel id="EFL League One Teams 2024/25">
+<display-name lang="en">EFL League One Teams 2024/25</display-name>
+<icon src="https://archive.org/download/Barnsley_202309/Barnsley.jpg"/>
+</channel>
+<programme start="20240701000000 +0000" stop="20240914215959 +0000" channel="Barnsley">
+<title lang="en">EFL League One Teams 2024/25</title>
+<desc lang="en">EFL League One Teams 2024/25</desc>
+</programme>
+<programme start="20240702000000 +0000" stop="20240917215959 +0000" channel="Barnsley">
+<title lang="en">EFL League One Teams 2024/25</title>
+<desc lang="en">EFL League One Teams 2024/25</desc>
+</programme>
+<programme start="20240703000000 +0000" stop="20240921215959 +0000" channel="Barnsley">
+<title lang="en">EFL League One Teams 2024/25</title>
+<desc lang="en">EFL League One Teams 2024/25</desc>
+</programme>
+<programme start="20240704000000 +0000" stop="20240928215959 +0000" channel="Barnsley">
+<title lang="en">EFL League One Teams 2024/25</title>
+<desc lang="en">EFL League One Teams 2024/25</desc>
+</programme>
+<programme start="20240705000000 +0000" stop="20241001215959 +0000" channel="Barnsley">
+<title lang="en">EFL League One Teams 2024/25</title>
+<desc lang="en">EFL League One Teams 2024/25</desc>
+</programme>
+<programme start="20240707000000 +0000" stop="20241005215959 +0000" channel="Barnsley">
+<title lang="en">EFL League One Teams 2024/25</title>
+<desc lang="en">EFL League One Teams 2024/25</desc>
+</programme>
+<programme start="20240708000000 +0000" stop="20241008215959 +0000" channel="Barnsley">
+<title lang="en">EFL League One Teams 2024/25</title>
+<desc lang="en">EFL League One Teams 2024/25</desc>
+</programme>
+<programme start="20240709000000 +0000" stop="20241012215959 +0000" channel="Barnsley">
+<title lang="en">EFL League One Teams 2024/25</title>
+<desc lang="en">EFL League One Teams 2024/25</desc>
+</programme>
+<programme start="20240710000000 +0000" stop="20241019215959 +0000" channel="Barnsley">
+<title lang="en">EFL League One Teams 2024/25</title>
+<desc lang="en">EFL League One Teams 2024/25</desc>
+</programme>
+<programme start="20240711000000 +0000" stop="20241022215959 +0000" channel="Barnsley">
+<title lang="en">EFL League One Teams 2024/25</title>
+<desc lang="en">EFL League One Teams 2024/25</desc>
+</programme>
 <channel id="Barnsley">
 <display-name lang="en">Barnsley</display-name>
 <icon src="https://archive.org/download/Barnsley_202309/Barnsley.jpg"/>
