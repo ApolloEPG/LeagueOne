@@ -2159,3 +2159,39 @@
 <title lang="en">Rotherham United v Birmingham City</title>
 <desc lang="en">Next Fixture - Rotherham United v Birmingham City - Saturday 21st September - 15:00 Kick Off GMT - EFL League One</desc>
 </programme>
+<channel id="Shrewsbury Town">
+<display-name lang="en">Shrewsbury Town</display-name>
+<icon src="https://archive.org/download/Shrewsbury Town_202309/Shrewsbury Town.jpg"/>
+</channel>
+<programme start="20240701000000 +0000" stop="20240914215959 +0000" channel="Shrewsbury Town">
+<title lang="en">Shrewsbury Town v Charlton Athletic</title>
+<desc lang="en">Next Fixture - Shrewsbury Town v Charlton Athletic - Saturday 14th September - 15:00 Kick Off GMT - EFL League One</desc>
+</programme>
+<programme start="20240701000000 +0000" stop="20240921215959 +0000" channel="Shrewsbury Town">
+<title lang="en">Mansfield Town v Shrewsbury Town</title>
+<desc lang="en">Next Fixture - Mansfield Town v Shrewsbury Town - Saturday 21st September - 15:00 Kick Off GMT - EFL League One</desc>
+</programme>
+<channel id="Stevenage">
+<display-name lang="en">Stevenage</display-name>
+<icon src="https://archive.org/download/Stevenage_202309/Stevenage.jpg"/>
+</channel>
+<programme start="20240701000000 +0000" stop="20240914215959 +0000" channel="Stevenage">
+<title lang="en">Stevenage v Barnsley</title>
+<desc lang="en">Next Fixture - Stevenage v Barnsley - Saturday 14th September - 15:00 Kick Off GMT - EFL League One</desc>
+</programme>
+<programme start="20240701000000 +0000" stop="20240921215959 +0000" channel="Stevenage">
+<title lang="en">Exeter City v Stevenage</title>
+<desc lang="en">Next Fixture - Exeter City v Stevenage - Saturday 21st September - 12:30 Kick Off GMT - EFL League One</desc>
+</programme>
+<channel id="Stockport County">
+<display-name lang="en">Stockport County</display-name>
+<icon src="https://archive.org/download/Stockport County_202309/Stockport County.jpg"/>
+</channel>
+<programme start="20240701000000 +0000" stop="20240914215959 +0000" channel="Stockport County">
+<title lang="en">Crawley Town v Stockport County</title>
+<desc lang="en">Next Fixture - Crawley Town v Stockport County - Saturday 14th September - 15:00 Kick Off GMT - EFL League One</desc>
+</programme>
+<programme start="20240701000000 +0000" stop="20240917215959 +0000" channel="Stockport County">
+<title lang="en">Stockport County v Everton U21</title>
+<desc lang="en">Next Fixture - Stockport County v Everton U21 - Tuesday 17th September - 19:00 Kick Off GMT - EFL Trophy</desc>
+</programme>
