@@ -2087,3 +2087,15 @@
 <title lang="en">Brentford v Leyton Orient</title>
 <desc lang="en">Next Fixture - Brentford v Leyton Orient - Tuesday 17th September - 19:45 Kick Off GMT - Carabao Cup</desc>
 </programme>
+<channel id="Lincoln City">
+<display-name lang="en">Lincoln City</display-name>
+<icon src="https://archive.org/download/Lincoln City_202309/Lincoln City.jpg"/>
+</channel>
+<programme start="20240701000000 +0000" stop="20240914215959 +0000" channel="Lincoln City">
+<title lang="en">Peterborough United v Lincoln City</title>
+<desc lang="en">Next Fixture - Peterborough United v Lincoln City - Saturday 14th September - 15:00 Kick Off GMT - EFL League One</desc>
+</programme>
+<programme start="20240701000000 +0000" stop="20240917215959 +0000" channel="Lincoln City">
+<title lang="en">Lincoln City v Wigan Athletic</title>
+<desc lang="en">Next Fixture - Lincoln City v Wigan Athletic - Saturday 21st September - 15:00 Kick Off GMT - EFL League One</desc>
+</programme>
