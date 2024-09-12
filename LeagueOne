@@ -2099,3 +2099,63 @@
 <title lang="en">Lincoln City v Wigan Athletic</title>
 <desc lang="en">Next Fixture - Lincoln City v Wigan Athletic - Saturday 21st September - 15:00 Kick Off GMT - EFL League One</desc>
 </programme>
+<channel id="Mansfield Town">
+<display-name lang="en">Mansfield Town</display-name>
+<icon src="https://archive.org/download/Mansfield Town_202309/Mansfield Town.jpg"/>
+</channel>
+<programme start="20240701000000 +0000" stop="20240914215959 +0000" channel="Mansfield Town">
+<title lang="en">Mansfield Town v Cambridge United</title>
+<desc lang="en">Next Fixture - Mansfield Town v Cambridge United - Saturday 14th September - 15:00 Kick Off GMT - EFL League One</desc>
+</programme>
+<programme start="20240701000000 +0000" stop="20240917215959 +0000" channel="Mansfield Town">
+<title lang="en">Mansfield Town v Bradford City</title>
+<desc lang="en">Next Fixture - Mansfield Town v Bradford City - Tuesday 17th September - 15:00 Kick Off GMT - EFL Trophy</desc>
+</programme>
+<channel id="Northampton Town">
+<display-name lang="en">Northampton Town</display-name>
+<icon src="https://archive.org/download/Northampton Town_202309/Northampton Town.jpg"/>
+</channel>
+<programme start="20240701000000 +0000" stop="20240914215959 +0000" channel="Northampton Town">
+<title lang="en">Northampton Town v Wycombe Wanderers</title>
+<desc lang="en">Next Fixture - Northampton Town v Wycombe Wanderers - Saturday 14th September - 12:30 Kick Off GMT - EFL League One</desc>
+</programme>
+<programme start="20240701000000 +0000" stop="20240921215959 +0000" channel="Northampton Town">
+<title lang="en">Huddersfield Town v Northampton Town</title>
+<desc lang="en">Next Fixture - Huddersfield Town v Northampton Town - Saturday 21st September - 15:00 Kick Off GMT - EFL League One</desc>
+</programme>
+<channel id="Peterborough United">
+<display-name lang="en">Peterborough United</display-name>
+<icon src="https://archive.org/download/Peterborough United_202309/Peterborough United.jpg"/>
+</channel>
+<programme start="20240701000000 +0000" stop="20240914215959 +0000" channel="Peterborough United">
+<title lang="en">Peterborough United v Lincoln City</title>
+<desc lang="en">Next Fixture - Peterborough United v Lincoln City - Saturday 14th September - 15:00 Kick Off GMT - EFL League One</desc>
+</programme>
+<programme start="20240701000000 +0000" stop="20240921215959 +0000" channel="Peterborough United">
+<title lang="en">Peterborough United v Bristol Rovers</title>
+<desc lang="en">Next Fixture - Peterborough United v Bristol Rovers - Saturday 21st September - 15:00 Kick Off GMT - EFL League One</desc>
+</programme>
+<channel id="Reading">
+<display-name lang="en">Reading</display-name>
+<icon src="https://archive.org/download/Reading_202309/Reading.jpg"/>
+</channel>
+<programme start="20240701000000 +0000" stop="20240914215959 +0000" channel="Reading">
+<title lang="en">Reading v Leyton Orient</title>
+<desc lang="en">Next Fixture - Reading v Leyton Orient - Saturday 14th September - 15:00 Kick Off GMT - EFL League One</desc>
+</programme>
+<programme start="20240701000000 +0000" stop="20240921215959 +0000" channel="Reading">
+<title lang="en">Bolton Wanderers v Reading</title>
+<desc lang="en">Next Fixture - Bolton Wanderers v Reading - Saturday 21st September - 15:00 Kick Off GMT - EFL League One</desc>
+</programme>
+<channel id="Rotherham United">
+<display-name lang="en">Rotherham United</display-name>
+<icon src="https://archive.org/download/Rotherham United_202309/Rotherham United.jpg"/>
+</channel>
+<programme start="20240701000000 +0000" stop="20240914215959 +0000" channel="Rotherham United">
+<title lang="en">Rotherham United v Burton Albion</title>
+<desc lang="en">Next Fixture - Rotherham United v Burton Albion - Saturday 14th September - 15:00 Kick Off GMT - EFL League One</desc>
+</programme>
+<programme start="20240701000000 +0000" stop="20240921215959 +0000" channel="Rotherham United">
+<title lang="en">Rotherham United v Birmingham City</title>
+<desc lang="en">Next Fixture - Rotherham United v Birmingham City - Saturday 21st September - 15:00 Kick Off GMT - EFL League One</desc>
+</programme>
