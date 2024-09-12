@@ -2195,3 +2195,39 @@
 <title lang="en">Stockport County v Everton U21</title>
 <desc lang="en">Next Fixture - Stockport County v Everton U21 - Tuesday 17th September - 19:00 Kick Off GMT - EFL Trophy</desc>
 </programme>
+<channel id="Wigan Athletic">
+<display-name lang="en">Wigan Athletic</display-name>
+<icon src="https://archive.org/download/Wigan Athletic_202309/Wigan Athletic.jpg"/>
+</channel>
+<programme start="20240701000000 +0000" stop="20240914215959 +0000" channel="Wigan Athletic">
+<title lang="en">Bristol Rovers v Wigan Athletic</title>
+<desc lang="en">Next Fixture - Bristol Rovers v Wigan Athletic - Saturday 14th September - 15:00 Kick Off GMT - EFL League One</desc>
+</programme>
+<programme start="20240701000000 +0000" stop="20240921215959 +0000" channel="Wigan Athletic">
+<title lang="en">Lincoln City v Wigan Athletic</title>
+<desc lang="en">Next Fixture - Lincoln City v Wigan Athletic - Saturday 21st September - 12:30 Kick Off GMT - EFL League One</desc>
+</programme>
+<channel id="Wrexham">
+<display-name lang="en">Wrexham</display-name>
+<icon src="https://archive.org/download/Wrexham_202309/Wrexham.jpg"/>
+</channel>
+<programme start="20240701000000 +0000" stop="20240916215959 +0000" channel="Wrexham">
+<title lang="en">Birmingham City v Wrexham</title>
+<desc lang="en">Next Fixture - Birmingham City v Wrexham - Monday 16th September - 20:00 Kick Off GMT - EFL League One</desc>
+</programme>
+<programme start="20240701000000 +0000" stop="20240921215959 +0000" channel="Wrexham">
+<title lang="en">Wrexham v Crawley Town</title>
+<desc lang="en">Next Fixture - Wrexham v Crawley Town - Saturday 21st September - 15:00 Kick Off GMT - EFL League One</desc>
+</programme>
+<channel id="Wycombe Wanderers">
+<display-name lang="en">Wycombe Wanderers</display-name>
+<icon src="https://archive.org/download/Wycombe Wanderers_202309/Wycombe Wanderers.jpg"/>
+</channel>
+<programme start="20240701000000 +0000" stop="20240914215959 +0000" channel="Wycombe Wanderers">
+<title lang="en">Northampton Town v Wycombe Wanderers</title>
+<desc lang="en">Next Fixture - Northampton Town v Wycombe Wanderers - Saturday 14th September - 12:30 Kick Off GMT - EFL League One</desc>
+</programme>
+<programme start="20240701000000 +0000" stop="20240917215959 +0000" channel="Wycombe Wanderers">
+<title lang="en">Wycombe Wanderers v Brighton And Hove Albion U21</title>
+<desc lang="en">Next Fixture - Wycombe Wanderers v Brighton And Hove Albion U21 - Tuesday 17th September - 19:00 Kick Off GMT - EFL Trophy</desc>
+</programme>
