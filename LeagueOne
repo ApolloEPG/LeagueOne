@@ -2075,3 +2075,15 @@
 <title lang="en">Huddersfield Town v Northampton Town</title>
 <desc lang="en">Next Fixture - Huddersfield Town v Northampton Town - Saturday 21st September - 15:00 Kick Off GMT - EFL League One</desc>
 </programme>
+<channel id="Leyton Orient">
+<display-name lang="en">Leyton Orient</display-name>
+<icon src="https://archive.org/download/Leyton Orient_202309/Leyton Orient.jpg"/>
+</channel>
+<programme start="20240701000000 +0000" stop="20240914215959 +0000" channel="Leyton Orient">
+<title lang="en">Reading v Leyton Orient</title>
+<desc lang="en">Next Fixture - Bolton Wanderers v Leyton Orient - Saturday 14th September - 15:00 Kick Off GMT - EFL League One</desc>
+</programme>
+<programme start="20240701000000 +0000" stop="20240917215959 +0000" channel="Leyton Orient">
+<title lang="en">Brentford v Leyton Orient</title>
+<desc lang="en">Next Fixture - Brentford v Leyton Orient - Tuesday 17th September - 19:45 Kick Off GMT - Carabao Cup</desc>
+</programme>
