@@ -2063,3 +2063,15 @@
 <title lang="en">EFL League One Match</title>
 <desc lang="en">EFL League One Match</desc>
 </programme>
+<channel id="Huddersfield Town">
+<display-name lang="en">Huddersfield Town</display-name>
+<icon src="https://archive.org/download/Huddersfield Town_202309/Huddersfield Town.jpg"/>
+</channel>
+<programme start="20240701000000 +0000" stop="20240914215959 +0000" channel="Huddersfield Town">
+<title lang="en">Bolton Wanderers v Huddersfield Town</title>
+<desc lang="en">Next Fixture - Bolton Wanderers v Huddersfield Town - Saturday 14th September - 15:00 Kick Off GMT - EFL League One</desc>
+</programme>
+<programme start="20240701000000 +0000" stop="20240921215959 +0000" channel="Huddersfield Town">
+<title lang="en">Huddersfield Town v Northampton Town</title>
+<desc lang="en">Next Fixture - Huddersfield Town v Northampton Town - Saturday 21st September - 15:00 Kick Off GMT - EFL League One</desc>
+</programme>
